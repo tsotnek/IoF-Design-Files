@@ -1,4 +1,4 @@
-22480536669136402
+22487344513071605
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55153,6 +55153,13 @@ Connector
 7
 7
 FishIoT_Footprint_library
+Fishlogo
+
+
+0
+0
+0
+FishIoT_Footprint_library
 IC_SKY65943-11
 
 
@@ -55167,6 +55174,13 @@ JAE_SF72S006VBDR2500
 18
 18
 FishIoT_Footprint_library
+LINX_CONUFL001-SMD-T
+
+
+0
+3
+3
+FishIoT_Footprint_library
 Laird, RM126X
 
 
@@ -55180,6 +55194,20 @@ MOLEX_0705430001
 0
 2
 2
+FishIoT_Footprint_library
+NTNUlogo
+
+
+0
+0
+0
+FishIoT_Footprint_library
+NTNUlogo2
+
+
+0
+0
+0
 FishIoT_Footprint_library
 PHVL3R9V255R
 21.3mmx11mm
