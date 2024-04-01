@@ -1,4 +1,4 @@
-22487344513071605
+22490768409382698
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55146,6 +55146,13 @@ ANT_P822601
 9
 9
 FishIoT_Footprint_library
+BAT_3002
+
+
+0
+3
+3
+FishIoT_Footprint_library
 BM05BZESSTBTLFSN
 BM05B-ZESS-TBT (LF)(SN)-1
 Connector
@@ -55264,6 +55271,13 @@ XCVR_NRF9160-SICA
 0
 161
 161
+FishIoT_Footprint_library
+ntnulogoLARGE
+
+
+0
+0
+0
 Fuse
 Fuse_0402_1005Metric
 Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
