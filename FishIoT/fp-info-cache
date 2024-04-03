@@ -1,4 +1,4 @@
-22490768409382698
+22499329156824759
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55272,7 +55272,42 @@ XCVR_NRF9160-SICA
 161
 161
 FishIoT_Footprint_library
+ammeterlogo
+
+
+0
+0
+0
+FishIoT_Footprint_library
+antennalogo
+
+
+0
+0
+0
+FishIoT_Footprint_library
+batterylogoo
+
+
+0
+0
+0
+FishIoT_Footprint_library
+gnsslogo
+
+
+0
+0
+0
+FishIoT_Footprint_library
 ntnulogoLARGE
+
+
+0
+0
+0
+FishIoT_Footprint_library
+usblogo
 
 
 0
