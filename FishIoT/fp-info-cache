@@ -1,4 +1,4 @@
-22499329156824759
+22502753468200506
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55294,6 +55294,20 @@ batterylogoo
 0
 FishIoT_Footprint_library
 gnsslogo
+
+
+0
+0
+0
+FishIoT_Footprint_library
+lte-mlogo
+
+
+0
+0
+0
+FishIoT_Footprint_library
+nbiotlogo
 
 
 0
